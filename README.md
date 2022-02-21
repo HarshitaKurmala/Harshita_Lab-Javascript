@@ -1,2 +1,2 @@
-# Gaurav_Lab-Javascript
+# Harshita_Lab-Javascript
 Front End Lab - JavaScript Solutions
